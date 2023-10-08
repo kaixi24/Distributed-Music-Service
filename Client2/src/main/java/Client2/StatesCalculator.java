@@ -31,7 +31,7 @@ public class StatesCalculator {
       System.out.println("Median: " + stats.getPercentile(50) + " ms");
       System.out.println("99th Percentile: " + stats.getPercentile(99) + " ms");
       System.out.println("Min: " + stats.getMin() + " ms");
-      System.out.println("Max: 1" + stats.getMax() + " ms");
+      System.out.println("Max: " + stats.getMax() + " ms");
 
     } catch (Exception e) {
       System.err.println("Error processing the CSV file: " + e.getMessage());

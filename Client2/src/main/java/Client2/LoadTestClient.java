@@ -75,7 +75,7 @@ public class LoadTestClient {
       long endTime = System.currentTimeMillis();
       double wallTime = (endTime - startTime) / 1000.0;
       long totalRequests = (long) threadGroupSize * numThreadGroups * API_CALLS_PER_THREAD;
-      double throughput = totalRequests / wallTime + 4000;
+      double throughput = totalRequests / wallTime;
 
       System.out.println("Wall Time: " + wallTime + " seconds");
       System.out.println("Throughput: " + throughput + " requests per second");
