@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68347902-8060-4664-8be9-bb1e263f5e1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW1/Servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Client/Xi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Client/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/.idea/artifacts/HW2_Server_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war/HW2-Server_war.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/HikariCP-4.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/gson-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/protobuf-java-3.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/lib/slf4j-api-2.0.0-alpha1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/HW2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumStoreServlet$AlbumInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumStoreServlet$ErrorMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumStoreServlet$ImageMetaData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2-Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Client/LoadTestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Client/StatesCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/src/main/java/ReviewConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/src/main/java/Servlet/AlbumReviewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/src/main/java/Servlet/AlbumStoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/src/main/java/Servlet/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/src/main/java/Servlet/RabbitMQUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3-Server/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Client/src/main/java/Client/LoadTestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Client/src/main/java/Client/LoadTestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Client/src/main/java/Client/StatesCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Client/src/main/java/Client/StatesCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/APIClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/APIClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/LoadTestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/LoadTestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/StatesCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/StatesCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/WorkerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Client/target/classes/Client/WorkerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/.idea/artifacts/HW2_Server_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/.idea/artifacts/HW2_Server_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/AlbumDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/AlbumInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/AlbumStoreServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/AlbumStoreServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/DatabaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/DatabaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/ErrorMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/out/artifacts/HW2_Server_war_exploded/WEB-INF/classes/ImageMetaData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/src/main/java/AlbumDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/src/main/java/AlbumInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/src/main/java/AlbumStoreServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/src/main/java/AlbumStoreServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/src/main/java/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/src/main/java/DatabaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/src/main/java/ErrorMsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/src/main/java/ImageMetaData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumStoreServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/target/classes/AlbumStoreServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/target/classes/DatabaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2-Server/target/classes/DatabaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/target/classes/ErrorMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2-Server/target/classes/ImageMetaData.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YjAuQTlaTiIPTVGmpf7nK9cz21" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/Client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Client" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68347902-8060-4664-8be9-bb1e263f5e1c" name="Changes" comment="" />
+      <created>1701028841261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701028841261</updated>
+      <workItem from="1701028842710" duration="1349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

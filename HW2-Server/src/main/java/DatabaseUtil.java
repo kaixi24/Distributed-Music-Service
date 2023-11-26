@@ -1,37 +1,31 @@
 import java.sql.Connection;
+import java.sql.DriverManager;
 import java.sql.SQLException;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
-
 public class DatabaseUtil {
-  private static final HikariConfig config = new HikariConfig();
+  private static HikariConfig config = new HikariConfig();
   private static HikariDataSource ds;
 
   static {
-    initializeDataSource();
-  }
-
-  private DatabaseUtil() {}
-
-  private static void initializeDataSource() {
     try {
-      // No need to explicitly load the driver class if you are using a JDBC 4.0 driver
-      config.setJdbcUrl("jdbc:mysql://database-1.cb2mcojnrxhs.us-west-2.rds.amazonaws.com:3306/mydb4?useSSL=false");
+      // Explicitly loading the MySQL JDBC driver class
+      Class.forName("com.mysql.cj.jdbc.Driver");
+
+      config.setJdbcUrl("jdbc:mysql://database-4.c6adlmbkalml.us-west-2.rds.amazonaws.com:3306/mydb4?useSSL=false");
       config.setUsername("admin");
-      config.setPassword("xikai123");
+      config.setPassword("wasdzx123");
       config.setMaximumPoolSize(60); // Set your desired pool size
-
-      // Additional pool configuration can be set here if required
-
       ds = new HikariDataSource(config);
-      System.out.println("Connection pool initialized successfully.");
-    } catch (Exception e) {
-      System.err.println("Failed to initialize the connection pool: " + e.getMessage());
-      throw new RuntimeException("Failed to initialize the connection pool", e);
+
+    } catch (ClassNotFoundException e) {
+      throw new RuntimeException("Failed to load MySQL JDBC driver", e);
     }
   }
 
-  public static Connection getConnection() throws SQLException {
+  private  DatabaseUtil() {}
+
+  public static Connection getConnection() throws SQLException, ClassNotFoundException{
     return ds.getConnection();
   }
 }
